@@ -11,7 +11,6 @@ let nowServing = (katzDeliLine) =>{
   }
   return katzDeliLine;
   
-  
 }
 let currentLine = (katzDeliLine) =>{
   let inline =[];
